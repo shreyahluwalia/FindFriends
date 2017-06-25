@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FindFriends</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_map">Map</string>
+</resources>
